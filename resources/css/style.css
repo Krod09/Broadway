@@ -8,6 +8,7 @@ body {
 header {
   background: url("../images/the-flatiron-building.png");
   background-position: center;
+  
   color: white;
   font-size: 18px;
 } header a {
