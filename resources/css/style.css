@@ -13,7 +13,10 @@ header {
   font-size: 18px;
 }
 
-header a {
+ul {
+  padding: 0;
+}
+header a, nav {
    color: white;
  }
 
