@@ -8,15 +8,19 @@ body {
 header {
   background: url("../images/the-flatiron-building.png");
   background-position: center;
-  
+  height: 295px;
   color: white;
   font-size: 18px;
-} header a {
+}
+
+header a {
    color: white;
  }
 
 h1 {
   font-size: 70px;
+  margin: 10px 0;
+  padding: 0;
 }
 
 h2 {
@@ -43,6 +47,7 @@ footer {
   color: white;
   text-align: left;
   background-color: dimgray;
+
 }footer a{
   color: white;
 }
